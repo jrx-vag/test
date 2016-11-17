@@ -17,32 +17,32 @@ This test contains instructions for the core team to manually test common attach
 **JPG**  
 `Images/JPG.jpg`  
 Expected: Scaled thumbnail & preview window  
-[Permalink](https://drive.google.com/open?id=0B8FHWFLhcR-fYmoyS3ZtRHRKU3c)
+[Permalink](https://raw.githubusercontent.com/jrx-vag/test/master/Multimedia/Images/JPG.jpg)
 
 **PNG**  
 `Images/PNG.png`  
 Expected: Scaled thumbnail & preview window  
-[Permalink](https://drive.google.com/open?id=0B8FHWFLhcR-fMFpRY1NLb05ObE0)
+[Permalink](https://raw.githubusercontent.com/jrx-vag/test/master/Multimedia/Images/PNG.png)
 
 **BMP**  
 `Images/BMP.bmp`  
 Expected: Scaled thumbnail & preview window  
-[Permalink](https://drive.google.com/open?id=0B8FHWFLhcR-fZmp1cVpSOGE1QlE)
+[Permalink](https://raw.githubusercontent.com/jrx-vag/test/master/Multimedia/Images/BMP.bmp)
 
 **GIF**  
 `Images/GIF.gif`  
 Expected: Scaled thumbnail & preview window. GIF should auto-play in the preview window.  
-[Permalink](https://drive.google.com/open?id=0B8FHWFLhcR-fdWxlRWVFVGtuS2c)
+[Permalink](https://raw.githubusercontent.com/jrx-vag/test/master/Multimedia/Images/GIF.gif)
 
 **TIFF**  
 `Images/TIFF.tiff`  
 Expected: Generic attachment thumbnail & preview window  
-[Permalink](https://drive.google.com/open?id=0B8FHWFLhcR-fOXh1MjA2ckYwSUE)
+[Permalink](https://raw.githubusercontent.com/jrx-vag/test/master/Multimedia/Images/TIFF.tif)
 
 **PSD**  
 `Images/PSD.psd`  
 Expected: Generic attachment thumbnail & preview window  
-[Permalink](https://drive.google.com/open?id=0B8FHWFLhcR-fNmd6cDc0d0FxTzA)
+[Permalink](https://raw.githubusercontent.com/jrx-vag/test/master/Multimedia/Images/PSD.psd)
 
 
 ### Documents
@@ -50,24 +50,24 @@ Expected: Generic attachment thumbnail & preview window
 **PDF Files**  
 `Documents/PDF.pdf`  
 Expected: Generic PDF thumbnail. File previewer shows first 5 pages of the PDF.   
-[Permalink](https://drive.google.com/open?id=0B8FHWFLhcR-fNW1NNEhIOGxKLTg)
+[Permalink](https://raw.githubusercontent.com/jrx-vag/test/master/Multimedia/Documents/PDF.pdf)
 
 
 **Excel**  
 `Documents/Excel.xlsx`  
 Expected: Generic Excel thumbnail & preview window.  
-[Permalink](https://drive.google.com/open?id=0B8FHWFLhcR-fbThaNVBzci1ZV2s)
+[Permalink](https://raw.githubusercontent.com/jrx-vag/test/master/Multimedia/Documents/Excel.xlsx)
 
 
 **PPT**  
 `Documents/PPT.pptx`  
 Expected: Generic Powerpoint thumbnail & preview window.   
-[Permalink](https://drive.google.com/open?id=0B8FHWFLhcR-fcjJyWWNRZ1FibUk)
+[Permalink](https://raw.githubusercontent.com/jrx-vag/test/master/Multimedia/Documents/PPT.pptx)
 
 **Word**  
 `Documents/Word.docx`  
 Expected: Generic Word thumbnail & preview window.  
-[Permalink](https://drive.google.com/open?id=0B8FHWFLhcR-fbEt6ZG8ybXBZNHM)
+[Permalink](https://raw.githubusercontent.com/jrx-vag/test/master/Multimedia/Documents/Word.docx)
 
 
 ### Videos
@@ -75,71 +75,71 @@ Expected: Generic Word thumbnail & preview window.
 **MP4**  
 `Videos/MP4.mp4`  
 Expected: Generic video thumbnail, view Permalink for preview window behavior. Expected depends on the operating system, browser and plugins.    
-[Permalink](https://drive.google.com/open?id=0B8FHWFLhcR-fZWZJUmMxMkZ4dkU)
+[Permalink](https://raw.githubusercontent.com/jrx-vag/test/master/Multimedia/Video/MP4.mp4)
 
 **AVI**  
 `Videos/AVI.avi`  
 Expected: Generic video thumbnail, view Permalink for preview window behavior. Expected depends on the operating system, browser and plugins.  
-[Permalink](https://drive.google.com/open?id=0B8FHWFLhcR-fSkZuWmwtZFpvVVE)
+[Permalink](https://raw.githubusercontent.com/jrx-vag/test/master/Multimedia/Video/AVI.avi)
 
 **MKV**  
 `Videos/MKV.mkv`  
 Expected: Generic video thumbnail, view Permalink for preview window behavior. Expected depends on the operating system, browser and plugins.  
-[Permalink](https://drive.google.com/open?id=0B8FHWFLhcR-fSUJqdDNYNDdOM00)
+[Permalink](https://raw.githubusercontent.com/jrx-vag/test/master/Multimedia/Video/MKV.mkv)
 
 **MOV**  
 `Videos/MOV.mov`  
 Expected: Generic video thumbnail, view Permalink for preview window behavior. Expected depends on the operating system, browser and plugins.  
-[Permalink](https://drive.google.com/open?id=0B8FHWFLhcR-fRXFTLVFsN0V3dVE)
+[Permalink](https://raw.githubusercontent.com/jrx-vag/test/master/Multimedia/Video/MOV.mov)
 
 **MPG**  
 `Videos/MPG.mpg`  
 Expected: Generic video thumbnail, view Permalink for preview window behavior. Expected depends on the operating system, browser and plugins.  
-[Permalink](https://drive.google.com/open?id=0B8FHWFLhcR-fLTJEc2FPSUliZ1E)
+[Permalink](https://raw.githubusercontent.com/jrx-vag/test/master/Multimedia/Video/MPG.mpg)
 
 **Webm**  
 `Videos/WEBM.webm`  
 Expected: Generic video thumbnail, view Permalink for preview window behavior. Expected depends on the operating system, browser and plugins.  
-[Permalink](https://drive.google.com/open?id=0B8FHWFLhcR-fa0JZdFdjbnNmS3c)
+[Permalink](https://raw.githubusercontent.com/jrx-vag/test/master/Multimedia/Video/WEBM.webm)
 
 **WMV**  
 `Videos/WMV.wmv`  
 Expected: Generic video thumbnail, view Permalink for preview window behavior. Expected depends on the operating system, browser and plugins.  
-[Permalink](https://drive.google.com/open?id=0B8FHWFLhcR-fc3JPMmFQUUxMbms)
+[Permalink](https://raw.githubusercontent.com/jrx-vag/test/master/Multimedia/Video/WMV.wmv)
 
 ### Audio
 
 **MP3**  
 `Audio/MP3.mp3`  
 Expected: Generic audio thumbnail & playable preview window  
-[Permalink](https://drive.google.com/open?id=0B8FHWFLhcR-fWl9aQWlTUzJfMzg)
+[Permalink](https://raw.githubusercontent.com/jrx-vag/test/master/Multimedia/Audio/MP3.mp3)
 
 **M4A**  
 `Audio/M4a.m4a`  
 Expected: Generic audio thumbnail, view Permalink for preview window behavior. Expected depends on the operating system, browser and plugins.  
-[Permalink](https://drive.google.com/open?id=0B8FHWFLhcR-fdXE1ZGhjUFJpTzA)
+[Permalink](https://raw.githubusercontent.com/jrx-vag/test/master/Multimedia/Audio/M4A.m4a)
 
 **AAC**  
 `Audio/AAC.aac`  
 Expected: Generic audio thumbnail, view Permalink for preview window behavior. Expected depends on the operating system, browser and plugins.  
-[Permalink](https://drive.google.com/open?id=0B8FHWFLhcR-fclhQX2lONDZBdGc)
+[Permalink](https://raw.githubusercontent.com/jrx-vag/test/master/Multimedia/Audio/AAC.aac)
 
 **FLAC**  
 `Audio/FLAC.flac`  
 Expected: Generic audio thumbnail, view Permalink for preview window behavior. Expected depends on the operating system, browser and plugins.  
-[Permalink](https://drive.google.com/open?id=0B8FHWFLhcR-fTTgxNFk1TktsX2s)
+[Permalink](https://raw.githubusercontent.com/jrx-vag/test/master/Multimedia/Audio/FLAC.flac)
 
 **OGG**  
 `Audio/OGG.ogg`  
 Expected: Generic audio thumbnail, view Permalink for preview window behavior. Expected depends on the operating system, browser and plugins.  
-[Permalink](https://drive.google.com/open?id=0B8FHWFLhcR-fVHpuM1pqdHEwUTQ)
+[Permalink](https://raw.githubusercontent.com/jrx-vag/test/master/Multimedia/Audio/OGG.ogg)
 
 **WAV**  
 `Audio/WAV.wav`  
 Expected: Generic audio thumbnail, view Permalink for preview window behavior. Expected depends on the operating system, browser and plugins.  
-[Permalink](https://drive.google.com/open?id=0B8FHWFLhcR-fOUlyem5IVHFOYTA)
+[Permalink](https://raw.githubusercontent.com/jrx-vag/test/master/Multimedia/Audio/WAV.wav)
 
 **WMA**  
 `Audio/WMA.wma`  
 Expected: Generic audio thumbnail, view Permalink for preview window behavior. Expected depends on the operating system, browser and plugins.  
-[Permalink](https://drive.google.com/open?id=0B8FHWFLhcR-faEkxek9hTlFhUFk)
+[Permalink](https://raw.githubusercontent.com/jrx-vag/test/master/Multimedia/Audio/WMA.wma)

@@ -91,7 +91,7 @@ in-line code
 
 ### In-line Images
 
-NetComposer-platform build status:  [![Build Status](https://drive.google.com/open?id=0B8FHWFLhcR-fbFljX1ZiSlhJb2s)](https://bitbucket.org/jaraxa/netcomposer-platform)  
+NetComposer-platform build status:  [![Build Status](https://raw.githubusercontent.com/jrx-vag/test/master/Multimedia/Images/passing.svg)](https://bitbucket.org/jaraxa/netcomposer-platform)  
 
 GitHub favicon:  ![Github](https://assets-cdn.github.com/favicon.ico)
 
